@@ -5,9 +5,8 @@ permalink: /support/
 
 # TaskPilot Support
 
-Questions, problems or feedback? Email **[samch2347@gmail.com](mailto:samch2347@gmail.com)**. We usually reply within
-two business days. It helps to include your iPhone model, iOS version and the app version (Settings → About in
-TaskPilot, or the App Store page).
+Questions, problems or feedback? Email **[samch2347@gmail.com](mailto:samch2347@gmail.com)**. It helps to include your iPhone model, iOS version and the app version (shown at the bottom of
+TaskPilot → Settings).
 
 ## Common questions
 
