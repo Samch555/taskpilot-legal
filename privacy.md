@@ -6,7 +6,7 @@ permalink: /privacy/
 # TaskPilot Privacy Policy
 
 **Effective date:** November 7, 2026
-**Developer:** Prashanth555 ("we", "us")
+**Developer:** Prashanth Chemalapati ("we", "us")
 **Contact:** samch2347@gmail.com
 
 TaskPilot is a task list and day planner. We built it to collect as little as possible. There are no accounts,
@@ -82,5 +82,5 @@ If this policy changes, we'll update the effective date above and, for material 
 
 ## Contact
 
-Prashanth555
+Prashanth Chemalapati
 samch2347@gmail.com
